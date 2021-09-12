@@ -1,4 +1,8 @@
-# Donation-Website
+# Payment Gateway Integration
+Sparks Foundation Internship Project : **`Payment Gateway Integration`** 
 
-### Check it out:-
-https://gripsept.000webhostapp.com/
+**Tech Stack used**:
+`HTML`, `CSS`,  & `Javascript` 
+
+HOSTING PALTFORM --> `000Webhost`
+Website link:- https://gripsept.000webhostapp.com/
